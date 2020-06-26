@@ -1,0 +1,44 @@
+.center {
+    text-align: center;
+}
+
+.search-wrapper {
+    padding: 10px;
+    justify-content: center;
+}
+
+.dropdown-wrapper {
+    text-align: center;
+    position: relative;
+    display: block;
+}
+
+.button-wrapper {
+    text-align: center;
+    position: relative;
+    display: block;
+}
+
+.card-wrapper {
+    display: inline-block;
+    width: 300px;
+    margin-top: 10px;
+}
+
+.search-result-wrapper{
+    max-width: 100%;
+}
+
+.card {
+    padding: 2px 4px;
+    margin: 2px;
+    font-weight: 300;
+    font-size: 0.8em;
+    border-radius: 2px;
+    height: 400px;
+    overflow-y: scroll;
+}
+
+.Btn {
+    margin: 5px;
+}

@@ -1,0 +1,26 @@
+.row-container {
+    text-align: left;
+}
+
+.favourite-image {
+    height: 60px;
+    width: 60px;
+}
+
+.favorite {
+    text-align: Left;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    overflow: hidden;
+    max-width: 50%;
+}
+
+.favorite-username {
+    overflow-x: hidden;
+}
+
+.favorite-wraper {
+    width: 20%;
+}
